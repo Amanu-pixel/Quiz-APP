@@ -5,13 +5,21 @@ A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.
 
 🚀 Features
 🎯 Multiple-choice questions
+
 ⏱️ Instant feedback on answers
+
 📊 Final score display
+
 🔁 Restart quiz option
+
 📱 Responsive design (works on mobile & desktop)
+
 ⚡ Lightweight and fast performance
 
 🛠️ Tech Stack
+
 HTML5 – Structure of the app
+
 CSS3 – Styling and layout
+
 JavaScript – Logic and interactivity
